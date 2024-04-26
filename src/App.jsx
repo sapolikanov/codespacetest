@@ -29,9 +29,9 @@ const siteProps = {
   email: "splknv.public@gmail.com",
   gitHub: "sapolikanov",
   instagram: "",
-  linkedIn: "www.linkedin.com/in/stepan-polikanov",
+  linkedIn: "stepan-polikanov",
   medium: "",
-  twitter: "https://twitter.com/spolikanov",
+  twitter: "spolikanov",
   youTube: "",
 };
 
