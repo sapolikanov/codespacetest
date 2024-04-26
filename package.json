@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://sapolikanov.github.io/codespacetest",
+    "build-gh": "parcel build --public-url 'https://sapolikanov.github.io/codespacetest'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
